@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{42672280-200F-4587-B698-31D405252E62}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Homework1/Models/UserModel.cs" Line="18" Column="70" />
+      <File FileName="Homework1/Views/Home/Login.cshtml" Line="20" Column="5" />
+      <File FileName="Homework1/Controllers/HomeController.cs" Line="28" Column="24" />
+      <File FileName="Homework1/Models/Response.cs" Line="7" Column="28" />
+      <File FileName="Homework1/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework1" expanded="True">
+            <Node name="Homework1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Login.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

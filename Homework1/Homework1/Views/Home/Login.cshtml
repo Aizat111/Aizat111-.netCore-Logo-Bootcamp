@@ -1,0 +1,22 @@
+﻿@model UserModel
+
+<form id="myForm" method="post">
+    <div class="form-group">
+        <label class="control-label">Ad Soyad</label>
+        <input type="text" class="form-control" id="fullname" value="" asp-for="FullName" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Email</label>
+        <input type="text" class="form-control" id="email" value="" asp-for="Email" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Şifre</label>
+        <input type="password" class="form-control" id="Password" value="" asp-for="Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <input class="btn-primary" type="submit" value="Submit" />
+    
+
+</form>
