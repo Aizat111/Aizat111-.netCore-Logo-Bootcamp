@@ -20,6 +20,8 @@ namespace week1.Controllers
         }
         public IActionResult Customer()
         {
+
+            //create new list
             var model = new List<Customer>
             {
                 new Customer{

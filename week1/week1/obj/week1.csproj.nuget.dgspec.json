@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aizatesenbekova/Documents/Logo-.netCore/week1/week1/week1.csproj": {}
+    "/Users/aizatesenbekova/Documents/Logo/week1/week1/week1.csproj": {}
   },
   "projects": {
-    "/Users/aizatesenbekova/Documents/Logo-.netCore/week1/week1/week1.csproj": {
+    "/Users/aizatesenbekova/Documents/Logo/week1/week1/week1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aizatesenbekova/Documents/Logo-.netCore/week1/week1/week1.csproj",
+        "projectUniqueName": "/Users/aizatesenbekova/Documents/Logo/week1/week1/week1.csproj",
         "projectName": "week1",
-        "projectPath": "/Users/aizatesenbekova/Documents/Logo-.netCore/week1/week1/week1.csproj",
+        "projectPath": "/Users/aizatesenbekova/Documents/Logo/week1/week1/week1.csproj",
         "packagesPath": "/Users/aizatesenbekova/.nuget/packages/",
-        "outputPath": "/Users/aizatesenbekova/Documents/Logo-.netCore/week1/week1/obj/",
+        "outputPath": "/Users/aizatesenbekova/Documents/Logo/week1/week1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aizatesenbekova/.config/NuGet/NuGet.Config"
